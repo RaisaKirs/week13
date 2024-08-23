@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+}
+.error {
+  color: red;
+  display: none;
+  margin-top: 10px;
+}
+#result {
+  margin-top: 20px;
+  font-size: 1.5em;
+}
